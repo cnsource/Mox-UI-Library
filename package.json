@@ -11,7 +11,9 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.5",
+    "vuerouter-build-vite-plugin": "^1.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
@@ -23,6 +25,7 @@
     "@storybook/testing-library": "^0.0.13",
     "@storybook/vue3": "^6.5.12",
     "@vitejs/plugin-vue": "^3.1.0",
+    "@vue/cli-plugin-router": "~5.0.0",
     "autoprefixer": "^10.4.12",
     "babel-loader": "^8.2.5",
     "postcss": "^8.4.17",
