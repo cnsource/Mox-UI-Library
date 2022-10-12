@@ -5,7 +5,7 @@
       <button class="px-5 py-3 rounded-[4px] hover:shadow-xl border font-[600] text-gray-700">See Reviews</button>
     </div>
     <div>
-      <div class="p-8 bg-blue-500 rounded-[4px] divide-x-2 divide-blue-400/40 flex shadow">
+      <div class="p-8 bg-blue-500 inline-block w-fit rounded-[4px] divide-x-2 divide-blue-400/40 flex shadow justify-center">
         <div class="px-6 flex flex-col items-center space-y-2">
           <span class="font-semibold text-white block text-5xl text-[仿宋]">300+</span>
           <span class=" text-blue-100 block text-sm">Valued Customers</span>
